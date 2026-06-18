@@ -1,8 +1,6 @@
 <div align="left">
-<img width="50" height="50" alt="GHBanner" src="assets/iptv.png/" />
-</div>
-
-## T9 TV
+<img width="50" height="50" alt="TNTV" src="assets/iptv.png/" />
+</div> 
 
 # Run and deploy your AI Studio app
 
